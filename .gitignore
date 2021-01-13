@@ -6,17 +6,11 @@
 /.settings/*
 /bin/*
 /build/*
-/gradle/*
 /logs/*
 /run/*
 /.classpath
 /.gitattributes
 /.project
-/build.gradle
-/gradle.properties
-/gradlew
-/gradlew.bat
-/README.md
 /runClient.launch
 /runData.launch
 /runServer.launch
