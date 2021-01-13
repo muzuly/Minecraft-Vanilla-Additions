@@ -1,6 +1,6 @@
-# Bunch O' Stuff
+# Vanilla Additions Mod
 
-Welcome to Bunch O' Stuff, a Minecraft mod that adds a variety of new items, features, and blocks to minecraft. 
+Welcome to Vanilla Additions, a Minecraft mod that adds a variety of new items, features, and blocks to minecraft. 
 
 Check out the wiki for further info on how to use these features, and stay tuned for an ever-growing selection of possibilities for Creative and Survival Minecraft.
 
@@ -14,4 +14,4 @@ The Bunch O' Stuff mod runs on the Minecraft [Forge 1.16.4+](http://files.minecr
 
 ### mod-setup
 
-Download the latest release of Bunch O' Stuff [here](https://github.com/muzuly/BunchOStuff/releases). This will give you a .jar file named BunchOStuff-1.16.4-version.jar. To set this up in your game just move the .jar file into your mods folder in .minecraft. If you have issues with installation please ask for help.
+Download the latest release of Vanilla Additions [here](https://github.com/muzuly/BunchOStuff/releases). This will give you a .jar file named Vanilla-Additions-1.16.4-version.jar. To set this up in your game just move the .jar file into your mods folder in .minecraft. If you have issues with installation please ask for help.
