@@ -1,0 +1,24 @@
+#Ignore system specific config
+
+/.git/*
+/.idea/*
+/.gradle/*
+/.settings/*
+/bin/*
+/build/*
+/gradle/*
+/logs/*
+/run/*
+/src/*
+/.classpth
+/.gitattributes
+/.project
+/build.gradle
+/gradle.properties
+/gradlew
+/gradlew.bat
+/README.md
+/runClient.launch
+/runData.launch
+/runServer.launch
+/setup.bat
