@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#  ",
+        "i  ",
+        "   "
+    ],
+    "key": {
+        "#": {
+            "item": "muzuly_bunchostuff:instant_health_pendant"
+        },
+        "i": {
+            "item": "muzuly_bunchostuff:iron_ring_item"
+        }
+    },
+    "result": {
+        "item": "muzuly_bunchostuff:iron_instant_health_ring",
+        "count": 1
+    }
+}

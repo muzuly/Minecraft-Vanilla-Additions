@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"pattern": [
+        " R ",
+        "RSR",
+        " R "
+    ],
+    "key": {
+        "R": {
+            "item": "minecraft:quartz_block"
+        },
+        "S": {
+            "item": "minecraft:coal"
+        }
+    },
+  "result": {
+    "item": "muzuly_bunchostuff:sooty_quartz"
+  }
+}

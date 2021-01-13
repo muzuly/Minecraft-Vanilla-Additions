@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"pattern": [
+        "   ",
+        " # ",
+        "   "
+    ],
+    "key": {
+        "#": {
+            "item": "muzuly_bunchostuff:compressed_cobble"
+        }
+    },
+  "result": {
+    "item": "minecraft:cobblestone",
+    "count": 9
+  }
+}

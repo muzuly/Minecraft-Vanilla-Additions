@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"pattern": [
+        "   ",
+        " # ",
+        "   "
+    ],
+    "key": {
+        "#": {
+            "item": "muzuly_bunchostuff:compressed_sand"
+        }
+    },
+  "result": {
+    "item": "minecraft:sand",
+    "count": 9
+  }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"pattern": [
+        "#R#",
+        "RSR",
+        "#R#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:cobblestone"
+        },
+        "R": {
+            "item": "minecraft:rotten_flesh"
+        },
+        "S": {
+            "item": "minecraft:spider_eye"
+        }
+    },
+  "result": {
+    "item": "muzuly_bunchostuff:bloody_cobblestone"
+  }
+}

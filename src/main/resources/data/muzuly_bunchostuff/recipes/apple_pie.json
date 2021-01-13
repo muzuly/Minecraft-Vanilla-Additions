@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        "af ",
+        " e "
+    ],
+    "key": {
+        "f": {
+            "item": "minecraft:sugar"
+        },
+        "e": {
+            "item": "minecraft:egg"
+        },
+        "a": {
+            "item": "minecraft:apple"
+        }
+    },
+    "result": {
+        "item": "muzuly_bunchostuff:apple_pie",
+        "count": 1
+    }
+}

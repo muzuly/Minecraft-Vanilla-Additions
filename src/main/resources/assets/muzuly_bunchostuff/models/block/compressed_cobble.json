@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "muzuly_bunchostuff:blocks/compressed_cobble"
+    }
+}

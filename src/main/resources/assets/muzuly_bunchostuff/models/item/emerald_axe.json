@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+    "textures": {
+    	"layer0": "muzuly_bunchostuff:items/emerald_axe"   
+    }
+}

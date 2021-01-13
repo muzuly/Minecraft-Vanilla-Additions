@@ -9,7 +9,6 @@
 /gradle/*
 /logs/*
 /run/*
-/src/*
 /.classpath
 /.gitattributes
 /.project

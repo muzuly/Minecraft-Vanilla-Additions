@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"pattern": [
+        "   ",
+        " # ",
+        "   "
+    ],
+    "key": {
+        "#": {
+            "item": "muzuly_bunchostuff:compressed_dirt"
+        }
+    },
+  "result": {
+    "item": "minecraft:dirt",
+    "count": 9
+  }
+}

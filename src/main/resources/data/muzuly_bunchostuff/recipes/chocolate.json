@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ff ",
+        "ff ",
+        "   "
+    ],
+    "key": {
+        "f": {
+            "item": "minecraft:cocoa_beans"
+        }
+    },
+    "result": {
+        "item": "muzuly_bunchostuff:chocolate",
+        "count": 4
+    }
+}

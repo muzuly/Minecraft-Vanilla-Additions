@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "## ",
+        " / ",
+        " / "
+    ],
+    "key": {
+        "#": {
+            "item": "muzuly_bunchostuff:ruby"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "muzuly_bunchostuff:ruby_hoe",
+        "count": 1
+    }
+}

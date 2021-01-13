@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        " e "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:carrot"
+        },
+        "e": {
+            "item": "minecraft:bowl"
+        }
+    },
+    "result": {
+        "item": "muzuly_bunchostuff:carrot_stew",
+        "count": 1
+    }
+}
