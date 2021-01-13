@@ -10,7 +10,7 @@
 /logs/*
 /run/*
 /src/*
-/.classpth
+/.classpath
 /.gitattributes
 /.project
 /build.gradle
