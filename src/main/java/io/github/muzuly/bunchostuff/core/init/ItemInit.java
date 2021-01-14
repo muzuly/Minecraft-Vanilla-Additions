@@ -218,4 +218,10 @@ public class ItemInit {
 	public static final RegistryObject<BlockItem> STARFISH = ITEMS.register("starfish",
 			() -> new BlockItem(BlockInit.STARFISH.get(), new Item.Properties().group(ItemGroup.BUILDING_BLOCKS)));
 	
+	public static final RegistryObject<BlockItem> SNOW_BRICKS = ITEMS.register("snow_bricks",
+			() -> new BlockItem(BlockInit.SNOW_BRICKS.get(), new Item.Properties().group(ItemGroup.BUILDING_BLOCKS)));
+	
+	//public static final RegistryObject<BlockItem> GOLDEN_CHEST = ITEMS.register("golden_chest",
+	//		() -> new BlockItem(BlockInit.GOLDEN_CHEST.get(), new Item.Properties().group(ItemGroup.DECORATIONS)));
+	
 }

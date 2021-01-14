@@ -1,12 +1,15 @@
 package io.github.muzuly.bunchostuff.core.init;
 
 import io.github.muzuly.bunchostuff.BunchOStuff;
+
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
+import net.minecraft.block.ChestBlock;
 import net.minecraft.block.SoundType;
 import net.minecraft.block.material.Material;
 import net.minecraft.block.material.MaterialColor;
+import net.minecraft.tileentity.TileEntityType;
 import net.minecraftforge.fml.RegistryObject;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
@@ -42,5 +45,13 @@ public class BlockInit {
 	
 	public static final RegistryObject<Block> STARFISH = BLOCKS.register("starfish",
 			() -> new Block(AbstractBlock.Properties.create(Material.CORAL, MaterialColor.ORANGE_TERRACOTTA).hardnessAndResistance(0.1f).sound(SoundType.CORAL)));
+	
+	public static final RegistryObject<Block> SNOW_BRICKS = BLOCKS.register("snow_bricks",
+			() -> new Block(AbstractBlock.Properties.create(Material.SNOW_BLOCK, MaterialColor.LIGHT_BLUE).hardnessAndResistance(.4f).sound(SoundType.SNOW)));
+
+	   public static final RegistryObject<Block> GOLDEN_CHEST = BLOCKS.register("golden_chest", 
+			() -> new ChestBlock(AbstractBlock.Properties.create(Material.IRON).hardnessAndResistance(3F).sound(SoundType.METAL), () -> {
+				return TileEntityType.CHEST; 
+			}));
 
 }
